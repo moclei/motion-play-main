@@ -5,6 +5,10 @@
 .DS_Store
 *.zip
 
+# CICD
+build/*
+dist/*
+schematics/* 
 # Temporary files
 *.000
 *.bak
