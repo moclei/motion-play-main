@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "motion play ADS1015QT footprints library")(type "KiCad")(uri "${KIPRJMOD}/motion-play-ads1015QT-footprint-library.pretty")(options "")(descr ""))
+  (lib (name "motion-play-footprint-library")(type "KiCad")(uri "${KIPRJMOD}/motion-play-footprint-library.pretty")(options "")(descr ""))
+)

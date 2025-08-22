@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "motion-play_Library")(type "KiCad")(uri "${KIPRJMOD}/motion-play_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "motion-play-library")(type "KiCad")(uri "${KIPRJMOD}/motion-play-library.kicad_sym")(options "")(descr ""))
+)
